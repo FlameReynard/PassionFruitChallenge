@@ -1,7 +1,3 @@
-# This is a sample Python script.
-
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
 import Analysis
 import Preparation
 import time
@@ -16,7 +12,7 @@ if __name__ == '__main__':
     for i in range(10):
         run = i + 1
         print("Preparing and splitting the dataset...")
-        Preparation.prepare("Train_Images", False)
+        Preparation.prepare("AugmentedImages", False)  # Use Train_Images when testing unmodified images
         trainer = Trainer(20, 0.82, 0.004, 0.7, 0, stats_file_name)
         epochs = 50
 
