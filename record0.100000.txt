@@ -1,0 +1,270 @@
+=====================================
+Run: 1.000000
+=====================================
+Time: 762.651269
+record0.100000.txtBest accuracy: 72.120200
+Best accuracy epoch: 32.000000
+Best accuracy error: 0.824820
+-------------------------------------
+Training accuracy: 78.166667
+Training error: 0.765661
+-------------------------------------
+Generalisation accuracy: 72.120200
+Generalisation error: 0.824820
+Epochs: 32.000000
+-------------------------------------
+Average accuracy: 49.754800
+Average error: 0.990491
+Stdev accuracy: 16.175268
+Stdev error: 0.105107
+-------------------------------------
+converged.pth
+Final accuracy: 67.278798
+Final error: 0.864389
+-------------------------------------
+bestModel.pth
+Final accuracy: 67.278798
+Final error: 0.864228
+=====================================
+Run: 2.000000
+=====================================
+Time: 1190.336431
+record0.100000.txtBest accuracy: 70.450751
+Best accuracy epoch: 50.000000
+Best accuracy error: 0.850244
+-------------------------------------
+Training accuracy: 78.111111
+Training error: 0.766628
+-------------------------------------
+Generalisation accuracy: 70.450751
+Generalisation error: 0.850244
+Epochs: 50.000000
+-------------------------------------
+Average accuracy: 53.238731
+Average error: 0.978335
+Stdev accuracy: 13.894745
+Stdev error: 0.103329
+-------------------------------------
+converged.pth
+Final accuracy: 67.779633
+Final error: 0.863176
+-------------------------------------
+bestModel.pth
+Final accuracy: 67.779633
+Final error: 0.863137
+=====================================
+Run: 3.000000
+=====================================
+Time: 811.361240
+record0.100000.txtBest accuracy: 72.120200
+Best accuracy epoch: 34.000000
+Best accuracy error: 0.829863
+-------------------------------------
+Training accuracy: 77.944444
+Training error: 0.771808
+-------------------------------------
+Generalisation accuracy: 72.120200
+Generalisation error: 0.829863
+Epochs: 34.000000
+-------------------------------------
+Average accuracy: 52.636748
+Average error: 0.987669
+Stdev accuracy: 14.318652
+Stdev error: 0.106635
+-------------------------------------
+converged.pth
+Final accuracy: 67.445743
+Final error: 0.858737
+-------------------------------------
+bestModel.pth
+Final accuracy: 67.445743
+Final error: 0.858614
+=====================================
+Run: 4.000000
+=====================================
+Time: 977.011243
+record0.100000.txtBest accuracy: 73.455760
+Best accuracy epoch: 41.000000
+Best accuracy error: 0.813102
+-------------------------------------
+Training accuracy: 86.888889
+Training error: 0.685240
+-------------------------------------
+Generalisation accuracy: 73.455760
+Generalisation error: 0.813102
+Epochs: 41.000000
+-------------------------------------
+Average accuracy: 57.832159
+Average error: 0.937470
+Stdev accuracy: 12.738945
+Stdev error: 0.089382
+-------------------------------------
+converged.pth
+Final accuracy: 72.954925
+Final error: 0.812172
+-------------------------------------
+bestModel.pth
+Final accuracy: 72.954925
+Final error: 0.812350
+=====================================
+Run: 5.000000
+=====================================
+Time: 1240.661640
+record0.100000.txtBest accuracy: 38.230384
+Best accuracy epoch: 1.000000
+Best accuracy error: 1.095616
+-------------------------------------
+Training accuracy: 34.888889
+Training error: 1.097278
+-------------------------------------
+Generalisation accuracy: 38.230384
+Generalisation error: 1.094379
+Epochs: 50.000000
+-------------------------------------
+Average accuracy: 38.230384
+Average error: 1.094938
+Stdev accuracy: 0.000000
+Stdev error: 0.000360
+-------------------------------------
+converged.pth
+Final accuracy: 35.559265
+Final error: 1.096320
+-------------------------------------
+bestModel.pth
+Final accuracy: 35.559265
+Final error: 1.096904
+=====================================
+Run: 6.000000
+=====================================
+Time: 1213.255757
+record0.100000.txtBest accuracy: 71.619366
+Best accuracy epoch: 50.000000
+Best accuracy error: 0.829879
+-------------------------------------
+Training accuracy: 76.000000
+Training error: 0.795840
+-------------------------------------
+Generalisation accuracy: 71.619366
+Generalisation error: 0.829879
+Epochs: 50.000000
+-------------------------------------
+Average accuracy: 44.410684
+Average error: 1.034460
+Stdev accuracy: 13.752513
+Stdev error: 0.097324
+-------------------------------------
+converged.pth
+Final accuracy: 68.447412
+Final error: 0.860746
+-------------------------------------
+bestModel.pth
+Final accuracy: 68.447412
+Final error: 0.861080
+=====================================
+Run: 7.000000
+=====================================
+Time: 631.088292
+record0.100000.txtBest accuracy: 72.621035
+Best accuracy epoch: 26.000000
+Best accuracy error: 0.822289
+-------------------------------------
+Training accuracy: 77.833333
+Training error: 0.774065
+-------------------------------------
+Generalisation accuracy: 72.621035
+Generalisation error: 0.822289
+Epochs: 26.000000
+-------------------------------------
+Average accuracy: 58.565558
+Average error: 0.935782
+Stdev accuracy: 11.599874
+Stdev error: 0.086010
+-------------------------------------
+converged.pth
+Final accuracy: 68.781302
+Final error: 0.845005
+-------------------------------------
+bestModel.pth
+Final accuracy: 68.781302
+Final error: 0.844649
+=====================================
+Run: 8.000000
+=====================================
+Time: 1210.284187
+record0.100000.txtBest accuracy: 67.946578
+Best accuracy epoch: 49.000000
+Best accuracy error: 0.869696
+-------------------------------------
+Training accuracy: 70.888889
+Training error: 0.838081
+-------------------------------------
+Generalisation accuracy: 66.611018
+Generalisation error: 0.879916
+Epochs: 50.000000
+-------------------------------------
+Average accuracy: 50.861436
+Average error: 1.038098
+Stdev accuracy: 11.108622
+Stdev error: 0.090473
+-------------------------------------
+converged.pth
+Final accuracy: 66.110184
+Final error: 0.873450
+-------------------------------------
+bestModel.pth
+Final accuracy: 68.280467
+Final error: 0.859440
+=====================================
+Run: 9.000000
+=====================================
+Time: 1014.332740
+record0.100000.txtBest accuracy: 71.619366
+Best accuracy epoch: 42.000000
+Best accuracy error: 0.822358
+-------------------------------------
+Training accuracy: 79.722222
+Training error: 0.756820
+-------------------------------------
+Generalisation accuracy: 71.619366
+Generalisation error: 0.822358
+Epochs: 42.000000
+-------------------------------------
+Average accuracy: 47.102313
+Average error: 1.010429
+Stdev accuracy: 16.024021
+Stdev error: 0.107086
+-------------------------------------
+converged.pth
+Final accuracy: 73.622705
+Final error: 0.807487
+-------------------------------------
+bestModel.pth
+Final accuracy: 73.622705
+Final error: 0.807129
+=====================================
+Run: 10.000000
+=====================================
+Time: 1215.543804
+record0.100000.txtBest accuracy: 34.891486
+Best accuracy epoch: 1.000000
+Best accuracy error: 1.101344
+-------------------------------------
+Training accuracy: 34.277778
+Training error: 1.098118
+-------------------------------------
+Generalisation accuracy: 34.891486
+Generalisation error: 1.097653
+Epochs: 50.000000
+-------------------------------------
+Average accuracy: 34.891486
+Average error: 1.099267
+Stdev accuracy: 0.000000
+Stdev error: 0.001096
+-------------------------------------
+converged.pth
+Final accuracy: 33.889816
+Final error: 1.098336
+-------------------------------------
+bestModel.pth
+Final accuracy: 33.889816
+Final error: 1.101374
